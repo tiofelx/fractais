@@ -21,3 +21,6 @@ O Conjunto de Mandelbrot é definido como o conjunto de números complexos \(c\)
 ```bash
 pip install numpy matplotlib
 ```
+## Execução
+```bash
+python fractais.ipynb
