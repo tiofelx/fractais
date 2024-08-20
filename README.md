@@ -24,3 +24,11 @@ pip install numpy matplotlib
 ## Execução
 ```bash
 python fractais.ipynb
+```
+
+<img src="mandelbrot.png"/>
+
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+
+## 
